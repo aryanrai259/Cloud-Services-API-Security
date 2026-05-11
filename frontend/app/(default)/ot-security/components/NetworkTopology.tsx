@@ -5,7 +5,7 @@ import ReactFlow, {
   Node,
   Edge,
   MarkerType,
-} from "react-flow-renderer";
+} from "@xyflow/react";
 import { Card } from "@/components/ui/card";
 
 interface NetworkTopologyProps {

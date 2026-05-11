@@ -57,7 +57,7 @@
     "react": "^19.0.0",
     "react-day-picker": "^9.13.0",
     "react-dom": "^19.0.0",
-    "react-flow-renderer": "^10.3.17",
+    "@xyflow/react": "^12",
     "react-hook-form": "^7.71.1",
     "react-icons": "^5.5.0",
     "react-resizable-panels": "^4.5.2",
